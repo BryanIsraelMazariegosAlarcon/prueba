@@ -12,3 +12,5 @@ console.log(helloLet)
 console.log(typeof(helloLet))
 
 
+console.log("Prueba String")
+console.log(45)
