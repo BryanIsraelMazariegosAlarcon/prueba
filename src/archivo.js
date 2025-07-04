@@ -14,3 +14,5 @@ console.log(typeof(helloLet))
 
 console.log("Prueba String")
 console.log(45)
+
+console.log("Prueba Rama Errores")
