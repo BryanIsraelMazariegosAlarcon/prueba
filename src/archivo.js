@@ -16,3 +16,4 @@ console.log("Prueba String")
 console.log(45)
 
 console.log("Prueba Rama Errores")
+console.log("Prueba 2 - Rama Errores")
